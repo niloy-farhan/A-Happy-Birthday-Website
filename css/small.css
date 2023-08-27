@@ -1,0 +1,20 @@
+.container{
+    width: 100%;
+    margin: 0;
+}
+
+aside.world{
+    text-align: center;
+    float: inherit;
+}
+
+aside.right {
+    text-align: center;
+    float: inherit;
+}
+
+img.spiral {
+    width: 250px;
+}
+
+
